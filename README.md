@@ -1,6 +1,6 @@
 # iotapp
 
-A new Flutter project.
+This is a project build by Oori Schubert to controll lights around his house and dorm room. If you are reading this feel free to use the code for inspirtion for your own projects.
 
 ## Getting Started
 

@@ -1,6 +1,6 @@
 # iotapp
 
-This is a project build by Oori Schubert to controll lights around his house and dorm room. If you are reading this feel free to use the code for inspiration for your own projects.
+This is a project build by Oori Schubert to control lights around his house and dorm room. If you are reading this feel free to use the code for inspiration for your own projects.
 
 ## Getting Started
 
